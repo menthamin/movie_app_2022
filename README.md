@@ -2,6 +2,16 @@
 
 React JS Fundamentals Course 202
 
+# Movie API
+```
+https://yts-proxy.now.sh/list_movies.json
+https://yts-proxy.now.sh/movie_details.json?movie_id=10
+```
+- reference
+  - https://github.com/serranoarevalo/yts-proxy
+  - https://yts.mx/api
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
